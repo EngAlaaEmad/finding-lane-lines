@@ -6,6 +6,9 @@ This is a project I created for the Udacity Self-Driving Car Engineer Nanodegree
 
 The entire code is available in this repository in a Jupyter notebook which includes code to test the pipeline with an image and a video.
 
+The output video is available on YouTube:
+https://youtu.be/Mh9md_DV30o
+
 The pipeline consists of 7 steps:
 - Conversion to grayscsale
 - Gaussian blur
