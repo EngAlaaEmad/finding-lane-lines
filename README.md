@@ -18,7 +18,7 @@ The pipeline consists of 7 steps:
 - Extrapolation of the Hough lines
 - Adding the lane lines to the original image
 
-The functions are implemented using the *NumPy* and *matplotlib* libraries. The pipeline is demonstrated below with the outputs of each step:
+The functions are implemented using the *OpenCV*, *NumPy* and *matplotlib* libraries. The pipeline is demonstrated below with the outputs of each step:
 
 Original image:
 
