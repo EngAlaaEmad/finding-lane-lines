@@ -4,7 +4,7 @@
 
 This is a project I created for the Udacity Self-Driving Car Engineer Nanodegree. The goal was to build a pipeline of image processing functions that takes a road image / video as input and outputs the image / video with lane lines marked with straight red lines.
 
-The entire code is available in this repository in a Jupyter notebook which includes code to test the pipeline with an image and a video.
+The entire code is available in this repository in a [Jupyter notebook](https://github.com/gyadam/finding-lane-lines/blob/master/FindingLaneLines.ipynb) which includes code to test the pipeline with an image and a video.
 
 The output video is available on YouTube:
 https://youtu.be/Mh9md_DV30o
