@@ -1,4 +1,4 @@
-# finding-lane-lines
+# Finding lane lines
 
 ## Project for Udacity Self-Driving Car Nanodegree
 
